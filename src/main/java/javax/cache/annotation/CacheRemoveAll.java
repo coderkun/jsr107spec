@@ -73,7 +73,6 @@ import java.lang.annotation.Target;
 public @interface CacheRemoveAll {
 
   /**
-   * /**
    * The name of the cache.
    * <p>
    * If not specified defaults first to {@link CacheDefaults#cacheName()} and if
